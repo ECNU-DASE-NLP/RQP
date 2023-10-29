@@ -1,0 +1,3038 @@
+[
+    {
+        "qid": 2971475,
+        "question": "What sport can you use this for?",
+        "image": 297147,
+        "caption": "This is a motorcycle that is parked near a building. ",
+        "edit": "What sport can you use a motorcycle for?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "racing",
+                "answer_confidence": "yes",
+                "answer": "race"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "motocross",
+                "answer_confidence": "yes",
+                "answer": "motocross"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "motocross",
+                "answer_confidence": "yes",
+                "answer": "motocross"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            }
+        ]
+    },
+    {
+        "qid": 3575865,
+        "question": "What toy is this?",
+        "image": 357586,
+        "caption": "A man sitting on a bench with a teddy bear in his book bag",
+        "edit": "What toy is a teddy bear",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "stuffed animal",
+                "answer_confidence": "yes",
+                "answer": "stuffed animal"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "teddy bear",
+                "answer_confidence": "yes",
+                "answer": "teddy bear"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "teddy bear",
+                "answer_confidence": "yes",
+                "answer": "teddy bear"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "teddy bear",
+                "answer_confidence": "yes",
+                "answer": "teddy bear"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "teddy bear",
+                "answer_confidence": "yes",
+                "answer": "teddy bear"
+            }
+        ]
+    },
+    {
+        "qid": 949225,
+        "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+        "image": 94922,
+        "caption": "The man holding two Frisbees has a dog on his back.",
+        "edit": "Which part of the dog would be in use of it was playing the Frisbees",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "mouth",
+                "answer_confidence": "yes",
+                "answer": "mouth"
+            }
+        ]
+    },
+    {
+        "qid": 5759705,
+        "question": "A center affixed unit like this one in a kitchen is called a what?",
+        "image": 575970,
+        "caption": "A counter stands in the center of a kitchen.",
+        "edit": "A center affixed unit like the counter in a kitchen is called a what?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "island",
+                "answer_confidence": "yes",
+                "answer": "island"
+            }
+        ]
+    },
+    {
+        "qid": 3045575,
+        "question": "Why might someone go to this place?",
+        "image": 304557,
+        "caption": "A general public walking and shopping at a local shopping district.",
+        "edit": "Why might someone go to a local shopping district?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "shopping",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "shopping",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "shopping",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "shopping",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "nyc",
+                "answer_confidence": "yes",
+                "answer": "nyc"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "nyc",
+                "answer_confidence": "yes",
+                "answer": "nyc"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "shop",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "shop",
+                "answer_confidence": "yes",
+                "answer": "shop"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "business",
+                "answer_confidence": "yes",
+                "answer": "business"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "business",
+                "answer_confidence": "yes",
+                "answer": "business"
+            }
+        ]
+    },
+    {
+        "qid": 2183655,
+        "question": "What does this grow from?",
+        "image": 218365,
+        "caption": "A small metal bowl holding an orange flower on purple sheet.",
+        "edit": "What does orange flower grow from?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "ground",
+                "answer_confidence": "yes",
+                "answer": "ground"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "ground",
+                "answer_confidence": "yes",
+                "answer": "ground"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "ground",
+                "answer_confidence": "yes",
+                "answer": "ground"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "ground",
+                "answer_confidence": "yes",
+                "answer": "ground"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "plant",
+                "answer_confidence": "yes",
+                "answer": "plant"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "plant",
+                "answer_confidence": "yes",
+                "answer": "plant"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "hibiscus plant stem",
+                "answer_confidence": "yes",
+                "answer": "hibiscus plant stem"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "hibiscus plant stem",
+                "answer_confidence": "yes",
+                "answer": "hibiscus plant stem"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "roots",
+                "answer_confidence": "yes",
+                "answer": "root"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "roots",
+                "answer_confidence": "yes",
+                "answer": "root"
+            }
+        ]
+    },
+    {
+        "qid": 2863135,
+        "question": "What is that man doing with the bat?",
+        "image": 286313,
+        "caption": "a man that is standing at home plate on a baseball field",
+        "edit": "What is that man on a baseball field doing with the bat?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "swinging",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "swinging",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "swinging",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "swinging",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "swing",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "swing",
+                "answer_confidence": "yes",
+                "answer": "swing"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "hitting",
+                "answer_confidence": "yes",
+                "answer": "hit"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "hitting",
+                "answer_confidence": "yes",
+                "answer": "hit"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "trying to hit hte ball",
+                "answer_confidence": "yes",
+                "answer": "try to hit hte ball"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "trying to hit hte ball",
+                "answer_confidence": "yes",
+                "answer": "try to hit hte ball"
+            }
+        ]
+    },
+    {
+        "qid": 299845,
+        "question": "Is this at a salt water beach or a lake?",
+        "image": 29984,
+        "caption": "Four people are swimming in the sea with chairs on the beach.",
+        "edit": "Four people are swimming in the sea with chairs on the beach. Is this at a salt water beach or a lake?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "salt water beach",
+                "answer_confidence": "yes",
+                "answer": "salt water beach"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "salt water beach",
+                "answer_confidence": "yes",
+                "answer": "salt water beach"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "salt water beach",
+                "answer_confidence": "yes",
+                "answer": "salt water beach"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "salt water beach",
+                "answer_confidence": "yes",
+                "answer": "salt water beach"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "salt water",
+                "answer_confidence": "yes",
+                "answer": "salt water"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "salt water",
+                "answer_confidence": "yes",
+                "answer": "salt water"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "lake",
+                "answer_confidence": "yes",
+                "answer": "lake"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "lake",
+                "answer_confidence": "yes",
+                "answer": "lake"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "beach",
+                "answer_confidence": "yes",
+                "answer": "beach"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "beach",
+                "answer_confidence": "yes",
+                "answer": "beach"
+            }
+        ]
+    },
+    {
+        "qid": 5169165,
+        "question": "What is this desk used for?",
+        "image": 516916,
+        "caption": "A very big work station with a bunch of computers.",
+        "edit": "What is this work station with a bunch of computers used for?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "working",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "working",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "working",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "working",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "computing",
+                "answer_confidence": "yes",
+                "answer": "compute"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "computing",
+                "answer_confidence": "yes",
+                "answer": "compute"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "work",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "work",
+                "answer_confidence": "yes",
+                "answer": "work"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "office",
+                "answer_confidence": "yes",
+                "answer": "office"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "office",
+                "answer_confidence": "yes",
+                "answer": "office"
+            }
+        ]
+    },
+    {
+        "qid": 4026395,
+        "question": "Is this a room for a boy or girl?",
+        "image": 402639,
+        "caption": "A child's bedroom with pink and white decor.",
+        "edit": "A child's bedroom with pink and white decor. Is this a room for a boy or girl?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "girl",
+                "answer_confidence": "yes",
+                "answer": "girl"
+            }
+        ]
+    },
+    {
+        "qid": 4575845,
+        "question": "In what year was this desert first introduced?",
+        "image": 457584,
+        "caption": "A variety of donuts inside a glass display case.",
+        "edit": "In what year was this donuts first introduced?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "1847",
+                "answer_confidence": "yes",
+                "answer": "1847"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "1847",
+                "answer_confidence": "yes",
+                "answer": "1847"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "1847",
+                "answer_confidence": "yes",
+                "answer": "1847"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "1847",
+                "answer_confidence": "yes",
+                "answer": "1847"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "1860",
+                "answer_confidence": "yes",
+                "answer": "1860"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "1860",
+                "answer_confidence": "yes",
+                "answer": "1860"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "1934",
+                "answer_confidence": "yes",
+                "answer": "1934"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "1934",
+                "answer_confidence": "yes",
+                "answer": "1934"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "1900s",
+                "answer_confidence": "yes",
+                "answer": "1900s"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "1900s",
+                "answer_confidence": "yes",
+                "answer": "1900s"
+            }
+        ]
+    },
+    {
+        "qid": 4883775,
+        "question": "What is this surf trick called?",
+        "image": 488377,
+        "caption": "Two people on surfboards, one standing and the other lying down to paddle.",
+        "edit": "Two people on surfboards, one standing and the other lying down to paddle. What is this surf trick called?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "riding",
+                "answer_confidence": "yes",
+                "answer": "ride"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "tube ride",
+                "answer_confidence": "yes",
+                "answer": "tube ride"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "tube ride",
+                "answer_confidence": "yes",
+                "answer": "tube ride"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "ollie",
+                "answer_confidence": "yes",
+                "answer": "ollie"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "ollie",
+                "answer_confidence": "yes",
+                "answer": "ollie"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "wave runner",
+                "answer_confidence": "yes",
+                "answer": "wave runner"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "wave runner",
+                "answer_confidence": "yes",
+                "answer": "wave runner"
+            }
+        ]
+    },
+    {
+        "qid": 1833195,
+        "question": "Why is this plugged in?",
+        "image": 183319,
+        "caption": "A win glass on a table with a lit candle and laptop computer.",
+        "edit": "Why is this laptop computer plugged in?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "charging",
+                "answer_confidence": "yes",
+                "answer": "charge"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "charging",
+                "answer_confidence": "yes",
+                "answer": "charge"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "charging",
+                "answer_confidence": "yes",
+                "answer": "charge"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "charging",
+                "answer_confidence": "yes",
+                "answer": "charge"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "to have power and work",
+                "answer_confidence": "yes",
+                "answer": "to have power and work"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "to have power and work",
+                "answer_confidence": "yes",
+                "answer": "to have power and work"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "power",
+                "answer_confidence": "yes",
+                "answer": "power"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "power",
+                "answer_confidence": "yes",
+                "answer": "power"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "outlet",
+                "answer_confidence": "yes",
+                "answer": "outlet"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "outlet",
+                "answer_confidence": "yes",
+                "answer": "outlet"
+            }
+        ]
+    },
+    {
+        "qid": 3970635,
+        "question": "What is the shape?",
+        "image": 397063,
+        "caption": "A circle of uncooked meat in someones hand",
+        "edit": "What is the shape of a circle of uncooked meat?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "circle",
+                "answer_confidence": "yes",
+                "answer": "circle"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "round",
+                "answer_confidence": "yes",
+                "answer": "round"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "round",
+                "answer_confidence": "yes",
+                "answer": "round"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "round",
+                "answer_confidence": "yes",
+                "answer": "round"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "round",
+                "answer_confidence": "yes",
+                "answer": "round"
+            }
+        ]
+    },
+    {
+        "qid": 3190735,
+        "question": "What is the person in the photo wearing?",
+        "image": 319073,
+        "caption": "A surfer in a wetsuit rides on a wave.",
+        "edit": "What is the person in a wetsuit in the photo wearing?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "wetsuit",
+                "answer_confidence": "yes",
+                "answer": "wetsuit"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "wetsuit",
+                "answer_confidence": "yes",
+                "answer": "wetsuit"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "wetsuit",
+                "answer_confidence": "yes",
+                "answer": "wetsuit"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "wetsuit",
+                "answer_confidence": "yes",
+                "answer": "wetsuit"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "suit",
+                "answer_confidence": "yes",
+                "answer": "suit"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "suit",
+                "answer_confidence": "yes",
+                "answer": "suit"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "wet suit",
+                "answer_confidence": "yes",
+                "answer": "wet suit"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "wet suit",
+                "answer_confidence": "yes",
+                "answer": "wet suit"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "trunks",
+                "answer_confidence": "yes",
+                "answer": "trunk"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "trunks",
+                "answer_confidence": "yes",
+                "answer": "trunk"
+            }
+        ]
+    },
+    {
+        "qid": 5144685,
+        "question": "What is the name of the board he is on?",
+        "image": 514468,
+        "caption": "A person lying down on a surf board in the ocean.",
+        "edit": "What is the name of the board a person lying down on a surf board is on?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "surf board",
+                "answer_confidence": "yes",
+                "answer": "surf board"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "surf board",
+                "answer_confidence": "yes",
+                "answer": "surf board"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "surf board",
+                "answer_confidence": "yes",
+                "answer": "surf board"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "surf board",
+                "answer_confidence": "yes",
+                "answer": "surf board"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "surfboard",
+                "answer_confidence": "yes",
+                "answer": "surfboard"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "surfboard",
+                "answer_confidence": "yes",
+                "answer": "surfboard"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "surfboard",
+                "answer_confidence": "yes",
+                "answer": "surfboard"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "surfboard",
+                "answer_confidence": "yes",
+                "answer": "surfboard"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "surf",
+                "answer_confidence": "yes",
+                "answer": "surf"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "surf",
+                "answer_confidence": "yes",
+                "answer": "surf"
+            }
+        ]
+    },
+    {
+        "qid": 4371265,
+        "question": "Name the material used to make this car seat shown in this picture?",
+        "image": 437126,
+        "caption": "A grey cat leans over the back seat of a car.",
+        "edit": "Name the material used to the back seat of a car?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "cloth",
+                "answer_confidence": "yes",
+                "answer": "cloth"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "cloth",
+                "answer_confidence": "yes",
+                "answer": "cloth"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "cloth",
+                "answer_confidence": "yes",
+                "answer": "cloth"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "cloth",
+                "answer_confidence": "yes",
+                "answer": "cloth"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "nylon",
+                "answer_confidence": "yes",
+                "answer": "nylon"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "nylon",
+                "answer_confidence": "yes",
+                "answer": "nylon"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "polyester",
+                "answer_confidence": "yes",
+                "answer": "polyester"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "polyester",
+                "answer_confidence": "yes",
+                "answer": "polyester"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "leather",
+                "answer_confidence": "yes",
+                "answer": "leather"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "leather",
+                "answer_confidence": "yes",
+                "answer": "leather"
+            }
+        ]
+    },
+    {
+        "qid": 3156685,
+        "question": "What country does this appear to be?",
+        "image": 315668,
+        "caption": "A herd of sheep standing next to a car in a field.",
+        "edit": "What country does a herd of sheep appear to be?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "scotland",
+                "answer_confidence": "yes",
+                "answer": "scotland"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "usa",
+                "answer_confidence": "yes",
+                "answer": "usa"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "usa",
+                "answer_confidence": "yes",
+                "answer": "usa"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "england",
+                "answer_confidence": "yes",
+                "answer": "england"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "england",
+                "answer_confidence": "yes",
+                "answer": "england"
+            }
+        ]
+    },
+    {
+        "qid": 3736625,
+        "question": "Which of the foods in the picture is best for you to eat when you have a cold?",
+        "image": 373662,
+        "caption": "White plate with a sandwich cut in half with a bowl of cherries. ",
+        "edit": "White plate with a sandwich cut in half with a bowl of cherries. Which of the foods in the picture is best for you to eat when you have a cold?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "soup",
+                "answer_confidence": "yes",
+                "answer": "soup"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "chicken soup",
+                "answer_confidence": "yes",
+                "answer": "chicken soup"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "chicken soup",
+                "answer_confidence": "yes",
+                "answer": "chicken soup"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "fruit",
+                "answer_confidence": "yes",
+                "answer": "fruit"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "fruit",
+                "answer_confidence": "yes",
+                "answer": "fruit"
+            }
+        ]
+    },
+    {
+        "qid": 4293695,
+        "question": "What do teenage pranksters do to this animal?",
+        "image": 429369,
+        "caption": "A herd of cattle are eating in a field.",
+        "edit": "What do teenage pranksters do to a herd of cattle?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "tip",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "tipping",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "tipping",
+                "answer_confidence": "yes",
+                "answer": "tip"
+            }
+        ]
+    },
+    {
+        "qid": 3268375,
+        "question": "What american restaurant features an open kitchen with visible cooking area such as this?",
+        "image": 326837,
+        "caption": "A man cooking in an restaurant kitchen with shelves over the stove. ",
+        "edit": "What american restaurant features an open kitchen with visible cooking area such as an restaurant kitchen with shelves over the stove?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "diner",
+                "answer_confidence": "yes",
+                "answer": "diner"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "denny's",
+                "answer_confidence": "yes",
+                "answer": "denny's"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "denny's",
+                "answer_confidence": "yes",
+                "answer": "denny's"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "waffle house",
+                "answer_confidence": "yes",
+                "answer": "waffle house"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "waffle house",
+                "answer_confidence": "yes",
+                "answer": "waffle house"
+            }
+        ]
+    },
+    {
+        "qid": 2780325,
+        "question": "What other big vehicle is often painted about the same shade as this vehicle?",
+        "image": 278032,
+        "caption": "a red train that is on a train track",
+        "edit": "What other big vehicle is often painted red?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "firetruck",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "firetrucks",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "firetrucks",
+                "answer_confidence": "yes",
+                "answer": "firetruck"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "fire truck",
+                "answer_confidence": "yes",
+                "answer": "fire truck"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "fire truck",
+                "answer_confidence": "yes",
+                "answer": "fire truck"
+            }
+        ]
+    },
+    {
+        "qid": 5096415,
+        "question": "What would happen if these items fall to the ground?",
+        "image": 509641,
+        "caption": "Glass items including a few differently designed pitchers.",
+        "edit": "What would happen if these glass fall to the ground?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "shatter",
+                "answer_confidence": "yes",
+                "answer": "shatter"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "shatter",
+                "answer_confidence": "yes",
+                "answer": "shatter"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "shatter",
+                "answer_confidence": "yes",
+                "answer": "shatter"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "shatter",
+                "answer_confidence": "yes",
+                "answer": "shatter"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "they would shatter",
+                "answer_confidence": "yes",
+                "answer": "they would shatter"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "they would shatter",
+                "answer_confidence": "yes",
+                "answer": "they would shatter"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "break",
+                "answer_confidence": "yes",
+                "answer": "break"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "break",
+                "answer_confidence": "yes",
+                "answer": "break"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "they would break",
+                "answer_confidence": "yes",
+                "answer": "they would break"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "they would break",
+                "answer_confidence": "yes",
+                "answer": "they would break"
+            }
+        ]
+    },
+    {
+        "qid": 1089825,
+        "question": "What type of bird is this?",
+        "image": 108982,
+        "caption": "A blue bird sitting on a branch of a tree.",
+        "edit": "What type of bird is this blue bird?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "blue jay",
+                "answer_confidence": "yes",
+                "answer": "blue jay"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "blue jay",
+                "answer_confidence": "yes",
+                "answer": "blue jay"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "blue jay",
+                "answer_confidence": "yes",
+                "answer": "blue jay"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "blue jay",
+                "answer_confidence": "yes",
+                "answer": "blue jay"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "bluebird",
+                "answer_confidence": "yes",
+                "answer": "bluebird"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "bluebird",
+                "answer_confidence": "yes",
+                "answer": "bluebird"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "songbird",
+                "answer_confidence": "yes",
+                "answer": "songbird"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "songbird",
+                "answer_confidence": "yes",
+                "answer": "songbird"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "goldfinch",
+                "answer_confidence": "yes",
+                "answer": "goldfinch"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "goldfinch",
+                "answer_confidence": "yes",
+                "answer": "goldfinch"
+            }
+        ]
+    },
+    {
+        "qid": 3774865,
+        "question": "Name the type of hat the man is wearing?",
+        "image": 377486,
+        "caption": "a person riding a horse on a dirt ground ",
+        "edit": "Name the type of hat the man riding a horse is wearing?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "cowboy",
+                "answer_confidence": "yes",
+                "answer": "cowboy"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "cowboy",
+                "answer_confidence": "yes",
+                "answer": "cowboy"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "cowboy",
+                "answer_confidence": "yes",
+                "answer": "cowboy"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "cowboy",
+                "answer_confidence": "yes",
+                "answer": "cowboy"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "sombrero",
+                "answer_confidence": "yes",
+                "answer": "sombrero"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "sombrero",
+                "answer_confidence": "yes",
+                "answer": "sombrero"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "sombrero",
+                "answer_confidence": "yes",
+                "answer": "sombrero"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "sombrero",
+                "answer_confidence": "yes",
+                "answer": "sombrero"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "stetson",
+                "answer_confidence": "yes",
+                "answer": "stetson"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "stetson",
+                "answer_confidence": "yes",
+                "answer": "stetson"
+            }
+        ]
+    },
+    {
+        "qid": 1305165,
+        "question": "What is this type of mack truck used for?",
+        "image": 130516,
+        "caption": "A cement truck that is in in a tunnel. ",
+        "edit": "What is this type of cement truck used for?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "cement",
+                "answer_confidence": "yes",
+                "answer": "cement"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "road work",
+                "answer_confidence": "yes",
+                "answer": "road work"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "road work",
+                "answer_confidence": "yes",
+                "answer": "road work"
+            }
+        ]
+    },
+    {
+        "qid": 5681485,
+        "question": "What can the woman do with this toy?",
+        "image": 568148,
+        "caption": "A young woman wearing red and blue holding a white and yellow Frisbee.",
+        "edit": "What can the woman do with this Frisbee?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "throw it",
+                "answer_confidence": "yes",
+                "answer": "throw it"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "throw",
+                "answer_confidence": "yes",
+                "answer": "throw"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "throw",
+                "answer_confidence": "yes",
+                "answer": "throw"
+            }
+        ]
+    },
+    {
+        "qid": 4732085,
+        "question": "Is this in a home kitchen or commercial kitchen?",
+        "image": 473208,
+        "caption": "Dozens of donuts sitting in a display case on metal racks.",
+        "edit": "Dozens of donuts sitting in a display case on metal racks. Is this in a home kitchen or commercial kitchen?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "commercial",
+                "answer_confidence": "yes",
+                "answer": "commercial"
+            }
+        ]
+    },
+    {
+        "qid": 3030245,
+        "question": "Which type of helmet is used by the sport person shown in this picture?",
+        "image": 303024,
+        "caption": "A man that is standing in the dirt with a bat.",
+        "edit": "Which type of helmet is used by the sport man that is standing in the dirt with a bat shown in this picture?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "batters",
+                "answer_confidence": "yes",
+                "answer": "batter"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "batters",
+                "answer_confidence": "yes",
+                "answer": "batter"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "batters",
+                "answer_confidence": "yes",
+                "answer": "batter"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "batters",
+                "answer_confidence": "yes",
+                "answer": "batter"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "batting helmet",
+                "answer_confidence": "yes",
+                "answer": "bat helmet"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "batting helmet",
+                "answer_confidence": "yes",
+                "answer": "bat helmet"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "batting helmet",
+                "answer_confidence": "yes",
+                "answer": "bat helmet"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "batting helmet",
+                "answer_confidence": "yes",
+                "answer": "bat helmet"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "batters helmet",
+                "answer_confidence": "yes",
+                "answer": "batter helmet"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "batters helmet",
+                "answer_confidence": "yes",
+                "answer": "batter helmet"
+            }
+        ]
+    },
+    {
+        "qid": 5342525,
+        "question": "Which brand of slipper is shown in this picture?",
+        "image": 534252,
+        "caption": "An adorable black and tan dog sniffs a pair of leather sandals.",
+        "edit": "Which brand of leather sandals is shown in this picture?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "birkenstock",
+                "answer_confidence": "yes",
+                "answer": "birkenstock"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "adidas",
+                "answer_confidence": "yes",
+                "answer": "adidas"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "adidas",
+                "answer_confidence": "yes",
+                "answer": "adidas"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "sandal",
+                "answer_confidence": "yes",
+                "answer": "sandal"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "sandal",
+                "answer_confidence": "yes",
+                "answer": "sandal"
+            }
+        ]
+    },
+    {
+        "qid": 511915,
+        "question": "Is this bathroom high or low end?",
+        "image": 51191,
+        "caption": "Long shot of a bathroom includes closet and tub.",
+        "edit": "Long shot of a bathroom includes closet and tub. Is this bathroom high or low end?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "high",
+                "answer_confidence": "yes",
+                "answer": "high"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "high end",
+                "answer_confidence": "yes",
+                "answer": "high end"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "high end",
+                "answer_confidence": "yes",
+                "answer": "high end"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "high end",
+                "answer_confidence": "yes",
+                "answer": "high end"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "high end",
+                "answer_confidence": "yes",
+                "answer": "high end"
+            }
+        ]
+    },
+    {
+        "qid": 3325125,
+        "question": "Which item in this room is usually to wash hands?",
+        "image": 332512,
+        "caption": "A bed next to a closed window near a laptop computer and a sink.",
+        "edit": "A bed next to a closed window near a laptop computer and a sink. Which item in this room is usually to wash hands?",
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "sink",
+                "answer_confidence": "yes",
+                "answer": "sink"
+            }
+        ]
+    },
+    {
+        "qid": 3763585,
+        "question": "What are the white objects on this animals head called?",
+        "image": 376358,
+        "caption": "Brown bull with horns laying down in field near wooden fence.",
+        "edit": "What are the white objects on this brown bull head called?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "horns",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "hornes",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "hornes",
+                "answer_confidence": "yes",
+                "answer": "horn"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "tusk",
+                "answer_confidence": "yes",
+                "answer": "tusk"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "tusk",
+                "answer_confidence": "yes",
+                "answer": "tusk"
+            }
+        ]
+    },
+    {
+        "qid": 2162545,
+        "question": "When was the cola brand on the signs founded?",
+        "image": 216254,
+        "caption": "a small store with coca cola signs in the front of it",
+        "edit": "When was the coca cola brand on the signs founded?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "1892",
+                "answer_confidence": "yes",
+                "answer": "1892"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "1892",
+                "answer_confidence": "yes",
+                "answer": "1892"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "1892",
+                "answer_confidence": "yes",
+                "answer": "1892"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "1892",
+                "answer_confidence": "yes",
+                "answer": "1892"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "1851",
+                "answer_confidence": "yes",
+                "answer": "1851"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "1851",
+                "answer_confidence": "yes",
+                "answer": "1851"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "1870's",
+                "answer_confidence": "yes",
+                "answer": "1870's"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "1870's",
+                "answer_confidence": "yes",
+                "answer": "1870's"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "1800",
+                "answer_confidence": "yes",
+                "answer": "1800"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "1800",
+                "answer_confidence": "yes",
+                "answer": "1800"
+            }
+        ]
+    },
+    {
+        "qid": 1569995,
+        "question": "What is this animal famously known for?",
+        "image": 156999,
+        "caption": "A giraffe bending over and licking a log.",
+        "edit": "What is this giraffe famously known for?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "long neck",
+                "answer_confidence": "yes",
+                "answer": "long neck"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "neck",
+                "answer_confidence": "yes",
+                "answer": "neck"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "neck",
+                "answer_confidence": "yes",
+                "answer": "neck"
+            }
+        ]
+    },
+    {
+        "qid": 4535205,
+        "question": "Are these animals mammals or insects?",
+        "image": 453520,
+        "caption": "Cows are visible in pens through a doorway.",
+        "edit": "Cows are visible in pens through a doorway. Are these animals mammals or insects?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "mammals",
+                "answer_confidence": "yes",
+                "answer": "mammal"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "animals",
+                "answer_confidence": "yes",
+                "answer": "animal"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "animals",
+                "answer_confidence": "yes",
+                "answer": "animal"
+            }
+        ]
+    },
+    {
+        "qid": 2335535,
+        "question": "How tall do these animals get?",
+        "image": 233553,
+        "caption": "One giraffe hides behind a tree as another giraffe relaxes in some brush.",
+        "edit": "How tall do these giraffes get?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "20 feet",
+                "answer_confidence": "yes",
+                "answer": "20 feet"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "20 feet",
+                "answer_confidence": "yes",
+                "answer": "20 feet"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "20 feet",
+                "answer_confidence": "yes",
+                "answer": "20 feet"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "20 feet",
+                "answer_confidence": "yes",
+                "answer": "20 feet"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "8 feey",
+                "answer_confidence": "yes",
+                "answer": "8 feey"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "8 feey",
+                "answer_confidence": "yes",
+                "answer": "8 feey"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "10 feet",
+                "answer_confidence": "yes",
+                "answer": "10 feet"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "10 feet",
+                "answer_confidence": "yes",
+                "answer": "10 feet"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "12 ft",
+                "answer_confidence": "yes",
+                "answer": "12 ft"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "12 ft",
+                "answer_confidence": "yes",
+                "answer": "12 ft"
+            }
+        ]
+    },
+    {
+        "qid": 3589765,
+        "question": "What is the breed of this cat?",
+        "image": 358976,
+        "caption": "A tiger striped cat laying on a green sofa.",
+        "edit": "What is the breed of this tiger striped cat?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "american shorthair",
+                "answer_confidence": "yes",
+                "answer": "american shorthair"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "american shorthair",
+                "answer_confidence": "yes",
+                "answer": "american shorthair"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "tabby",
+                "answer_confidence": "yes",
+                "answer": "tabby"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "tabby",
+                "answer_confidence": "yes",
+                "answer": "tabby"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "tortoise shell",
+                "answer_confidence": "yes",
+                "answer": "tortoise shell"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "tortoise shell",
+                "answer_confidence": "yes",
+                "answer": "tortoise shell"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "tabbie",
+                "answer_confidence": "yes",
+                "answer": "tabbie"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "tabbie",
+                "answer_confidence": "yes",
+                "answer": "tabbie"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "calico",
+                "answer_confidence": "yes",
+                "answer": "calico"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "calico",
+                "answer_confidence": "yes",
+                "answer": "calico"
+            }
+        ]
+    },
+    {
+        "qid": 1050405,
+        "question": "Is this fruit or veggies?",
+        "image": 105040,
+        "caption": "A plate with a small salad and sandwich on a table ",
+        "edit": "A plate with a small salad and sandwich on a table, Is this fruit or veggies?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "veggies",
+                "answer_confidence": "yes",
+                "answer": "veggies"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "veggies",
+                "answer_confidence": "yes",
+                "answer": "veggies"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "veggies",
+                "answer_confidence": "yes",
+                "answer": "veggies"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "veggies",
+                "answer_confidence": "yes",
+                "answer": "veggies"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "vegetable",
+                "answer_confidence": "yes",
+                "answer": "vegetable"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "vegetable",
+                "answer_confidence": "yes",
+                "answer": "vegetable"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "veeggies",
+                "answer_confidence": "yes",
+                "answer": "veeggies"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "veeggies",
+                "answer_confidence": "yes",
+                "answer": "veeggies"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "veggie",
+                "answer_confidence": "yes",
+                "answer": "veggie"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "veggie",
+                "answer_confidence": "yes",
+                "answer": "veggie"
+            }
+        ]
+    },
+    {
+        "qid": 2352215,
+        "question": "What unpleasant emotional state does this weather phenomenon often cause?",
+        "image": 235221,
+        "caption": "A clock above a building with clouds and lightning in background.",
+        "edit": "What unpleasant emotional state does clouds and lightning often cause?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "depression",
+                "answer_confidence": "yes",
+                "answer": "depression"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "depression",
+                "answer_confidence": "yes",
+                "answer": "depression"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "depression",
+                "answer_confidence": "yes",
+                "answer": "depression"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "depression",
+                "answer_confidence": "yes",
+                "answer": "depression"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "shock",
+                "answer_confidence": "yes",
+                "answer": "shock"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "shock",
+                "answer_confidence": "yes",
+                "answer": "shock"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "fright",
+                "answer_confidence": "yes",
+                "answer": "fright"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "fright",
+                "answer_confidence": "yes",
+                "answer": "fright"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "fear",
+                "answer_confidence": "yes",
+                "answer": "fear"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "fear",
+                "answer_confidence": "yes",
+                "answer": "fear"
+            }
+        ]
+    },
+    {
+        "qid": 2864225,
+        "question": "How do people use this?",
+        "image": 286422,
+        "caption": "Two people and a dog are on a sailboat.",
+        "edit": "How do people use sailboat?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "sail",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "sail",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "sail",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "sail",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "sailing",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "sailing",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "sailing",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "sailing",
+                "answer_confidence": "yes",
+                "answer": "sail"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "to sail",
+                "answer_confidence": "yes",
+                "answer": "to sail"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "to sail",
+                "answer_confidence": "yes",
+                "answer": "to sail"
+            }
+        ]
+    },
+    {
+        "qid": 3430685,
+        "question": "What kind of animal is clearly displayed on the cover of this bed?",
+        "image": 343068,
+        "caption": "A bedroom with a bed that has a deer bedspread.",
+        "edit": "What kind of animal is clearly displayed on the cover of this bed that has a deer bedspread?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "deer",
+                "answer_confidence": "yes",
+                "answer": "deer"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "elk",
+                "answer_confidence": "yes",
+                "answer": "elk"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "elk",
+                "answer_confidence": "yes",
+                "answer": "elk"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "moose",
+                "answer_confidence": "yes",
+                "answer": "moose"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "moose",
+                "answer_confidence": "yes",
+                "answer": "moose"
+            }
+        ]
+    },
+    {
+        "qid": 3883985,
+        "question": "Would this article of furniture typically be for public or private use?",
+        "image": 388398,
+        "caption": "Children are sitting on a red park bench",
+        "edit": "Would this article of a red park bench typically be for public or private use?", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "public",
+                "answer_confidence": "yes",
+                "answer": "public"
+            }
+        ]
+    },
+    {
+        "qid": 2873285,
+        "question": "What happens here?",
+        "image": 287328,
+        "caption": "two dogs are laying in a bed together",
+        "edit": "What happens two dogs are laying in a bed together", 
+        "answer": [
+            {
+                "answer_id": 1,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 2,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 3,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 4,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 5,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 6,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 7,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 8,
+                "raw_answer": "sleep",
+                "answer_confidence": "yes",
+                "answer": "sleep"
+            },
+            {
+                "answer_id": 9,
+                "raw_answer": "resting",
+                "answer_confidence": "yes",
+                "answer": "rest"
+            },
+            {
+                "answer_id": 10,
+                "raw_answer": "resting",
+                "answer_confidence": "yes",
+                "answer": "rest"
+            }
+        ]
+    }
+]
