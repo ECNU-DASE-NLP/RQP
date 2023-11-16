@@ -2,21 +2,20 @@
 
 ## Repository structure
 We have the important files with the following structure. We omit some datasets and dependencies due to the loading size limit.
-<ol>
-  <li>code</li> 
-    <ol>
-      <li>rq_prompting_step1.py</li> # The code for answer generation
-      <li>rq_prompting_step2.py</li> # The code for answer selection
-      <li>src</li> # The code for question edit
-    </ol>
-  <li>data</li>
-      <li>okvqa</li> # Processed OKVQA data
-      <li>aokvqa</li> # Processed OKVQA data
-      <li>caption</li> # Captions for VQA datasets
-      <li>cache</li> # Cache to save queried prompts
-      <li>edit_results</li> # The folder to save edit questions
-  <li>results</li> # The folder to save output results
-</ol>
+
+```
++-- code
+    +-- rq_prompting_step1.py # The code for answer generation
+    +-- rq_prompting_step2.py # The code for answer selection
+    +-- src # The code for question edit
++-- data
+    +-- okvqa # Processed OKVQA data
+    +-- aokvqa # Processed OKVQA data
+    +-- caption # Captions for VQA datasets
+    +-- cache # Cache to save queried prompts
+    +-- edit_results # The folder to save edit questions
++-- results # The folder to save output results
+```
 
 
 ## Setup
