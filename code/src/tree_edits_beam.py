@@ -164,7 +164,7 @@ def mcmc(input_sent, reference, input_lang, tag_lang, dep_lang, lm_forward, lm_b
             print("Reference sentence")
             print(reference)
         print("----"*10)
-        print("Simplified sentence")
+        print("Modified sentence")
         print(input_sent); 
         #exit()
 

@@ -2,10 +2,10 @@ model_config = {
     'clip': 50,
     'lr': 0.001,
     'num_steps': 87,
-    'threshold': {'ls':0.8, 'dl':1.25, 'las':5.0, 'rl':1.25, 'pa': 1.25}, #Newsela -> {'ls':1.25, 'dl':1.25, 'las':1.25, 'rl':1.25, 'pa': 1.25}, Wikilarge ->{'ls':0.8, 'dl':1.25, 'las':5.0, 'rl':1.25, 'pa': 1.25}
+    'threshold': {'ls':0.8, 'dl':1.25, 'las':5.0, 'rl':1.25, 'pa': 1.25}, 
     'epochs': 100,
     'set': 'test',
-    'lm_name': './src/Wikilarge/structured_lm_forward_300_150_0_4_freq5', #wikilarge -> Wikilarge/structured_lm_forward_300_150_0_4_freq5, newsela -> Newsela/structured_lm_forward_300_150_0_4
+    'lm_name': './src/Wikilarge/structured_lm_forward_300_150_0_4_freq5', 
     'use_structural_as_standard': False,
     'lm_backward': False,
     'embedding_dim': 300,

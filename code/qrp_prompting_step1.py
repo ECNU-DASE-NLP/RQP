@@ -250,13 +250,12 @@ class Answer_Generation:
             self.apikeys = read_apikey('./openai.txt'); #exit()
         elif self.args.llm == 'gpt3.5':
             self.gpt3_cache = {}
-            self.apikeys = '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'
             openai.api_key = self.apikeys
 
     def inference(self):
         out_path = '%s_%s_%s_%s_nshot%s_editnum%s_%s_%s' %(self.args.dataset, self.args.mode, self.args.sample, \
                         self.args.llm, self.args.n_shot, self.args.edit_num, self.args.baseline, self.args.additional_information)
-        print('out_path', out_path)
+
         if os.path.isfile('./results/%s.json' %out_path): 
             os.remove('./results/%s.json' %out_path)
         out_file = open('./results/%s.json' %out_path, 'a')
@@ -271,10 +270,7 @@ class Answer_Generation:
 
             if answer[0]['pred_answer'] == 'NA':
                 continue
-
-            # pred_ans = [a['pred_answer'] for a in answer]
-            # pred_acc = Counter(pred_ans)
-
+                
             max_acc = sorted(pred_acc.items(), key=lambda x: x[1], reverse = True)
             all_answers.append(answer)
             cache_answers.append(answer)
