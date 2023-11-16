@@ -57,7 +57,7 @@ if you find this useful for your work, please cite:
 >    isbn = {9798400701085},\
 >    publisher = {Association for Computing Machinery},\
 >    address = {New York, NY, USA},\
->    url = {https://doi.org/10.1145/3581783.3612389},\
+>    url = {https://doi.org/10.1145/3581783.3612389}, \
 >    doi = {10.1145/3581783.3612389},\
 >    pages = {4389–4400},\
 >    numpages = {12},\
